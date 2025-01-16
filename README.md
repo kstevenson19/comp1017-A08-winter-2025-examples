@@ -3,3 +3,5 @@
 Hey Folks you can look at all of the examples here if you want to browse them.
 
 I'll be sharing the completed versions to bright space but I thought this would be a handy companion.
+
+The numbers in front should correspond with the days that they were taught in brightspace.
